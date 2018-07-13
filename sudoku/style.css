@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+table {
+    display: table;
+    margin: auto;
+    margin-top: 80px;
+    border-collapse: collapse;
+    font-size: 28px;
+    width: 500px;
+    height:500px;
+    font-weight: 200;
+    border: 4px solid black;
+}
+
+td {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
